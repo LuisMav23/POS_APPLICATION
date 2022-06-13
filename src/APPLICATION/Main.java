@@ -1,5 +1,12 @@
 package APPLICATION;
 
+/* 
+Arellano, Marie Chesca L.
+Bautista, Noel Y.
+Eslabra, Jan Kristian S.
+Gabriel, Luis Maverick L.
+Gopez, John Nico M.
+*/
 
 import java.awt.SystemColor;
 import java.awt.Color;
